@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+### I'm Filip Gieracki
+###### I'm a student of Informatics and Inteligent Systems course on AGH UST (Poland).
 <!--
 **fgieracki/fgieracki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
