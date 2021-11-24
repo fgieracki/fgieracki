@@ -6,6 +6,8 @@ GitHub page: [fgieracki.github.io](https://fgieracki.github.io)
 
 Personal website: [fgieracki.com](https://fgieracki.com)
 
+Making of personal website process [**AGH TOOLS**]: [basic docs](https://sandbox.fgieracki.com/tools/)
+
 <!--
 **fgieracki/fgieracki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
