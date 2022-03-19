@@ -7,7 +7,7 @@ Tools 2021
 >
 > Personal website: [fgieracki.com](https://fgieracki.com)
 >
-> Making of personal website process [**AGH TOOLS**]: [basic docs](https://sandbox.fgieracki.com/tools/)
+<!-- > Making of personal website process [**AGH TOOLS**]: [basic docs](https://sandbox.fgieracki.com/tools/)
 >
 > Forked repo: https://github.com/fgieracki/Adaptive-Traffic-Signal-Control-System
 
