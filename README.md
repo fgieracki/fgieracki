@@ -1,15 +1,8 @@
 ### Hi there 👋
 ### I'm Filip Gieracki
-###### I'm a student of Informatics and Inteligent Systems course on AGH UST (Poland).
+###### I'm a student of Data Science and Inteligent Systems course on AGH UST (Poland).
 
-Tools 2021
-> GitHub page: [fgieracki.github.io](https://fgieracki.github.io)
->
-> Personal website: [fgieracki.com](https://fgieracki.com)
->
-<!-- > Making of personal website process [**AGH TOOLS**]: [basic docs](https://sandbox.fgieracki.com/tools/)
->
-> Forked repo: https://github.com/fgieracki/Adaptive-Traffic-Signal-Control-System
+
 
 
 <!--
