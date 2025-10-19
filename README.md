@@ -1,7 +1,6 @@
 ### Hi there 👋
 ### I'm Filip Gieracki
-###### I'm a student of Data Science and Intelligent Systems course on AGH UST (Poland).
-
+###### I'm a graduate of Data Science and Intelligent Systems course @ AGH UST (Poland) and student of Data Science @ Krakow University of Technology.
 
 
 
